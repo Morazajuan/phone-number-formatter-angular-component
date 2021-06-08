@@ -1,5 +1,5 @@
 # Phone Number Formatter
 
-![Alt Text](Animation.gif)
+![phone formater](Animation.gif)
 
 [More Component](https://github.com/Morazajuan/AngularComponentsbyJuanMoraza)
