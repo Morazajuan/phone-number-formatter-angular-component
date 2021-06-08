@@ -1,4 +1,4 @@
-# PhoneNumberFormatter
+# Phone Number Formatter
 
 ![Alt Text](Animation.gif)
 
